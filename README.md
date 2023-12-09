@@ -169,6 +169,7 @@
         </div>
     </div>
 
+    
     <div class="footer">
       <pre>
         <p> REFERÊNCIA</p>
@@ -192,3 +193,6 @@
           Site Oficial de Rockman (em japonês)
           Official Irregular Hunter X website (em japonês)
       </p>
+    </div>
+</body>
+</html>
